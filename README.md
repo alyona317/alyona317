@@ -12,7 +12,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **REact, Node.JS**
+- 🌱 I’m currently learning **React, Node.JS**
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/alena-oshchepkova-0753bb212/), [email](mailto:osch.alyona@gmail.com)
 - 🎯 Goal: become a full-stack developer
 - 🌍 I speak English (B1)
